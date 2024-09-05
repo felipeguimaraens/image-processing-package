@@ -1,9 +1,12 @@
 # imgproc
 
 Description. 
+
+Package created during DIO bootcamp - Data engineering with Python by NTT Data
+
 The package imgproc is used to:
-	- Compare two images
-	- Find the diferences (displaying a histogram)
+- Compare two images
+- Find the diferences (displaying a histogram)
 
 ## Installation
 
