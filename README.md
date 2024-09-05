@@ -1,27 +1,28 @@
-# package_name
+# imgproc
 
 Description. 
-The package package_name is used to:
-	- 
-	-
+The package imgproc is used to:
+	- Compare two images
+	- Find the diferences (displaying a histogram)
 
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
 
 ```bash
-pip install package_name
+pip install imgproc
 ```
 
 ## Usage
 
 ```python
-from package_name.module1_name import file1_name
-file1_name.my_function()
+from imgproc.processing import combination
+combination.find_difference()
+combination.transfer_histogram()
 ```
 
 ## Author
-My_name
+Karina Kato
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
